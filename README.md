@@ -1,16 +1,37 @@
-### Hi there 👋
+Hi there! 👋 I'm Nishant Kumar, a Frontend Developer
+<img align="right" src="https://github.com/username.png" alt="Nishant Kumar" width="200"/>
+I specialize in developing beautiful and functional user interfaces using React JS and SCSS. With my passion for creating clean and efficient code, I am dedicated to delivering high-quality projects that exceed client expectations.
 
-<!--
-**nishant679/nishant679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Skills
+React JS
+SCSS
+HTML
+CSS
+JavaScript
+Git and Github
+🎨 Portfolio
+Here are some of my recent projects that showcase my frontend development skills:
 
-Here are some ideas to get you started:
+Project 1: A web application for managing tasks using React and Firebase
+Project 2: A responsive landing page for a travel company using HTML, SCSS and JavaScript
+Project 3: A fully functional e-commerce website built with React and Redux
+🔨 Tools and Frameworks
+I have experience working with a range of tools and frameworks, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React
+Redux
+Material UI
+Bootstrap
+Firebase
+Netlify
+Heroku
+📫 Contact
+Feel free to reach out to me on LinkedIn or via email at nishantkumar@email.com.
+
+🙏 Thank You
+Thank you for taking the time to visit my profile. I'm excited to hear about your next project and how we can work together to bring your ideas to life!
+
+Let's connect and create something amazing! 😊
+
+
+
